@@ -14,7 +14,7 @@ matrix = movie.Movie(
 
 fifth_element = movie.Movie(
     "Dive into nearest future to get a sneak peak what to expect from it",
-    "http://img.moviepostershop.com/the-fifth-element-movie-poster-1997-1010473456.jpg",
+    "http://img.moviepostershop.com/the-fifth-element-movie-poster-1997-1010473456.jpg",  # NOQA
     "https://www.youtube.com/watch?v=199EvXTKucc")
 
 # Generate html page with your favorite movies
